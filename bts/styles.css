@@ -1,0 +1,59 @@
+body {
+color:beige;
+background:black;
+margin: 0px;
+padding: 20px;
+font-family: "Sofadi One", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color:aqua;
+}
+
+.chamada {
+    background: rgb(2, 106, 124);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  img {
+    height: 200px;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+  }
+
+h2 {
+    font-size: 35px;
+}
